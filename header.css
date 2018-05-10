@@ -60,33 +60,19 @@ header {
 	margin-top: 20px;
 		text-align: center;
 }
-.menu_button {
-	width: 150px;
-	height: 50px;
-	background: #404040;
-	border-radius: 5px;
-	border:1px solid #404040;
-	font-size: 13px;
-	margin:50px 10px 0 0;
-	color: white;
-	font-family: 'PT Serif', serif;
-	display: inline-block;
-	cursor: pointer;
-	
-}
-.menu_button:hover {
-	background-color: #ff6633;
-}
 .button a{
 	padding: 10px;
-	border: 1px solid black;
+	border: 1px solid #404040;
 	display: inline-block;
 	border-radius: 5px;
-	background-color: white;
-	width: 150px;
+	background-color: #404040;
+	width: 160px;
 	height: 50px;
 	line-height: 30px;
-	color: black;
+	color: white;
+	font-size: 13px;
+	font-family: 'PT Serif', serif;
+	margin: 5px;
 }
 .button a:hover {
 	background-color: #ff6633;
@@ -94,4 +80,11 @@ header {
 .button {
 	text-align: center;
 	margin: 10px;
+}
+.scrol {
+	font-size: 14px;
+	font-family: 'PT Serif', serif;
+	margin-top: 100px;
+	text-align: center;
+	color: white;
 }

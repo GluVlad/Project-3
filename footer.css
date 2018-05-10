@@ -1,0 +1,45 @@
+footer {
+	width: 1300px;
+	height: 305px;
+	background-color: #222222;
+	margin: 0 auto;
+}
+.col-33 {
+	width: 33%;
+	margin-top: 70px;
+}
+.logo {
+	font-family: 'PT Serif', serif;
+	font-size: 36px;
+	color: #ff5c2e;
+}
+.foot_capt {
+	font-family: 'PT Serif', serif;
+	font-size: 16px;
+	color: white;
+	margin-bottom: 20px;
+}
+.foot_menu  {
+	font-size: 13px;
+	font-family: 'PT Serif', serif;
+	margin: 10px 0;
+}
+.foot_menu a {
+	color: white;
+}
+.foot_menu a:hover {
+	color: #ff5c2e;
+}
+.foot_lit_capt {
+	font-size: 13px;
+	font-family: 'PT Serif', serif;
+	margin: 10px 0;
+	color: white;
+	margin-bottom: 20px;
+}
+.foot_lit_capt a {
+	color: #ff5c2e;
+}
+.foot_img {
+	margin: 5px;
+}

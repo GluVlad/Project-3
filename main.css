@@ -1,0 +1,30 @@
+main {
+		min-height: calc(100vh - 610px);
+}
+.col-5 {
+	width: 50%;
+	margin: 130px 0;
+}
+.left {
+	border-right: 1px solid #d7d6d6;
+}
+.caption_4th_area {
+	font-size: 26px;
+	font-family: 'PT Serif', serif;
+	text-align: center;
+	font-weight: bold;
+	color: #3b3b3b;
+}
+.info_4th_area {
+	font-size: 16px;
+	font-family: 'PT Serif', serif;
+	text-align: center;
+	color: #3b3b3b;
+	margin: 40px;
+	line-height: 20px;
+}
+.share {
+	margin:10px;
+	margin-top: 65px;
+	text-align: center;
+}
