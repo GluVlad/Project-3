@@ -1,0 +1,97 @@
+.logo a{
+	font-family: 'PT Serif', serif;
+	font-size: 36px;
+	color: #ff5c2e;
+}
+[class*="col"] {
+	float: left;
+	margin-top: 50px;
+}
+.col-3 {
+	width: 25%;
+}
+.col-9 {
+	width: 75%;
+}
+.row:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.menu > li  {
+	width: 20%;
+	float: left;
+}
+.menu > li > a {
+	color: white;
+	font-size: 14px;
+}
+.menu > li  :hover {
+	color: #ff5c2e;
+}
+header {
+	background-image: url(images/header-bg.png);
+	width: 1300px;
+	height: 700px;
+	margin:0 auto;
+}
+.col-3 {
+	margin-top: 50px;
+}
+.menu a {
+}
+.undermenutext {
+	font-size: 13px;
+	color: white;
+	font-family: 'PT Serif', serif;
+	margin: 20px 0 170px 0;
+
+}
+.welcome {
+	font-size: 52px;
+	color: white;
+	font-family: 'PT Serif', serif;
+	text-align: center;
+}
+.offer {
+	font-size: 36px;
+	font-family: 'PT Serif', serif;
+	color: white;
+	margin-top: 20px;
+		text-align: center;
+}
+.menu_button {
+	width: 150px;
+	height: 50px;
+	background: #404040;
+	border-radius: 5px;
+	border:1px solid #404040;
+	font-size: 13px;
+	margin:50px 10px 0 0;
+	color: white;
+	font-family: 'PT Serif', serif;
+	display: inline-block;
+	cursor: pointer;
+	
+}
+.menu_button:hover {
+	background-color: #ff6633;
+}
+.button a{
+	padding: 10px;
+	border: 1px solid black;
+	display: inline-block;
+	border-radius: 5px;
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	line-height: 30px;
+	color: black;
+}
+.button a:hover {
+	background-color: #ff6633;
+}
+.button {
+	text-align: center;
+	margin: 10px;
+}
