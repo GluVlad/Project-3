@@ -65,7 +65,7 @@ main {
 	background-color: #ff6633;
 	border-color: #ff6633
 }
-.capt_3th-area {
+.capt_3d_area {
 	color: #3b3b3b;
 	font-size: 22px;
 	font-family: 'PT Serif', serif;
@@ -150,4 +150,36 @@ main {
 	position: absolute;
 	top: -2px;
 	left: 190px;
+}
+.capt_2nd_area {
+	font-size: 26px;
+	font-family: 'PT Serif', serif;
+	font-weight: bold;
+	margin: 190px 0 50px 0;
+	text-align: center;
+}
+.info_2nd_area {
+	font-size: 16px;
+	margin:10px 0;
+	line-height: 20px;
+}
+.info_2nd_area a {
+	color: #ff6633;
+}
+.marg {
+	margin-top: 10px;
+}
+.button_menu {
+	float: right;
+	margin: 50px 0;
+}
+.menu_images {
+	padding: 12px;
+}
+.col-6 {
+	width: 55%;
+	margin: 120px 0;
+}
+.col-4	{
+	width: 45%;
 }
