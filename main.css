@@ -183,3 +183,31 @@ main {
 .col-4	{
 	width: 45%;
 }
+.capt_1t_area {
+	font-size: 26px;
+	font-family: 'PT Serif', serif;
+	font-weight: bold;
+	margin: 190px 0 50px 0;
+	text-align: center;
+}
+.info_1t_area {
+	font-size: 16px;
+	line-height: 20px;
+	text-align: left;
+	margin: 10px 0;
+}
+.info_1t_area a {
+	color: #ff6633;
+}
+.about_img {
+	margin: 120px 0 30px 109px;
+}
+.col-4a {
+	width: 40%;
+}
+.col-6a {
+	width: 60%;
+}
+.about_img4 {
+	margin-left: 503px;
+}
